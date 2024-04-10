@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    background-color: aliceblue;
+    border: 5px solid;
+    border-radius: 5cm;
+    padding: 50px;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+}
+header .logo{
+    float: right;
+}
